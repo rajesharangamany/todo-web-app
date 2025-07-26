@@ -1,9 +1,7 @@
 
 import streamlit as st
 import os
-# File path to Desktop
-# desktop = os.path.join(os.path.expanduser("~"), "Desktop")
-#FILENAME = os.path.join(desktop, "to-do.txt")
+
 FILENAME = to-do.txt
 
 # Load tasks from file
