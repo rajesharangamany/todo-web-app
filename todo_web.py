@@ -2,7 +2,7 @@
 import streamlit as st
 import os
 
-FILENAME = to-do.txt
+FILENAME = "to-do.txt"
 
 # Load tasks from file
 def load_tasks():
